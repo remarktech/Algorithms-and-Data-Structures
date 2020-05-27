@@ -72,7 +72,7 @@ int main(void)
 	char c;
 	int flag=0,num1 =0,i=0,n=0,cnt=1,j=0;
  
-	 fp=fopen("C:\\Users\\bipul\\OneDrive\\Desktop\\coding\\flattering\\inputfile.txt","r");
+	 fp=fopen("C:\\Users\\anmol\\OneDrive\\Desktop\\coding\\flattering\\inputfile.txt","r");
 	 c=fgetc(fp);
  
  	while(c!=EOF)
